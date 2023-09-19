@@ -290,6 +290,8 @@ body {
 
 .service-img img {
   height: 46vh;
+
+
 }
 
 .service-title h5 {
@@ -494,9 +496,7 @@ body {
   font-size: 17px;
 }
 
-.team2imgs {
-  position: relative;
-}
+
 
 .team2imgs::before {
   background-image: url("https://businex.jamstacktemplates.dev/static/media/team-bg-2.ec7a058d.jpg");
@@ -675,9 +675,7 @@ body {
   font-weight: 500;
 }
 
-.main-about {
-  margin-top: 8%;
-}
+
 
 .main-about-items {
   background-image: url("https://businex.jamstacktemplates.dev/static/media/page-header.ef733c38.jpg");
@@ -697,9 +695,6 @@ body {
   width: 50%;
 }
 
-.main-service {
-  margin-top: 8%;
-}
 
 .main-service-items {
   background-image: url("https://businex.jamstacktemplates.dev/static/media/page-header.ef733c38.jpg");
@@ -783,9 +778,7 @@ body {
   color: white;
 }
 
-.main-team {
-  margin-top: 8%;
-}
+
 
 .main-team-items {
   background-image: url("https://businex.jamstacktemplates.dev/static/media/page-header.ef733c38.jpg");
@@ -835,9 +828,7 @@ body {
   transition: 1s;
 }
 
-.main-blog {
-  margin-top: 8%;
-}
+
 
 .main-blog-items {
   background-image: url("https://businex.jamstacktemplates.dev/static/media/page-header.ef733c38.jpg");
@@ -1150,13 +1141,11 @@ body {
 .swiper {
   width: 100%;
   height: 100%;
-  margin-top: 8%;
 }
 
 .swiper1 {
   width: 100%;
   height: 45vh;
-  margin-top: 8%;
 }
 
 .swiper2 {
@@ -1220,7 +1209,6 @@ body {
 
   .slider1 {
     margin-right: 0rem;
-    margin-top: 7%;
   }
 
   .home_btn button {
@@ -1239,7 +1227,6 @@ body {
 
   .slider11 {
     height: 39vh;
-    margin-top: 15%;
   }
 
   .slider11 h2 {
@@ -1317,7 +1304,7 @@ body {
   }
 
   .blog.sm-top {
-    margin-top: 66rem;
+    margin-top: 150rem;
   }
 
   .blog .blog_text h2 {
@@ -1357,7 +1344,6 @@ body {
 
   .main-about-items .main-content h1 {
     font-size: 2.3rem;
-    margin-top: 12%;
   }
 
   .main-about-items .main-content p {
@@ -1451,6 +1437,10 @@ body {
     height: 144vh;
   }
 
+  .team2imgs {
+    height: 130rem;
+  }
+
   .team2imgs .team2-imgs {
     margin: 0% 0%;
     display: flex;
@@ -1460,10 +1450,11 @@ body {
   .team2imgs .team2-imgs img {
     padding: 11% 0%;
     width: 40%;
+    
   }
 
   .team2imgs::before {
-    height: 260vh;
+    height: 130rem;
   }
 
   #blog {
@@ -1545,7 +1536,6 @@ body {
   
   .slider11 {
     height: 70vh;
-    margin-top: 1%;
   }
 
   .slider1 {
@@ -1744,9 +1734,7 @@ body {
   height: 35vh;
 }
 
-.drawer {
-  margin-top: 28%;
-}
+
 
 .login-form .formcontent input {
   background: #f8f9fc;

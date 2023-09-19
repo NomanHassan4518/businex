@@ -157,7 +157,7 @@ const Home = () => {
       <div className=''>
         <Swiper navigation={true} modules={[Navigation]} className="mySwiper">
           {
-            home.map((a) => (
+            home.map((a) => ( 
               <SwiperSlide>
                 <div className="slider11 d-flex align-items-lg-center " style={{ backgroundImage: `url(${a.img})` }}>
                   <div className="container">
