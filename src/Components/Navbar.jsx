@@ -201,7 +201,7 @@ const Navbar = () => {
               <Link to="/blogrsidebar" className='text-decoration-none text-black fs-5 mx-4'>Blog List Right Sidebar</Link>
             </li>
             <li className='nav-link'>
-              <Link to="/Blog Details" className='text-decoration-none text-black fs-5 mx-4'>Blog Details</Link>
+              <Link to="/blogdetails" className='text-decoration-none text-black fs-5 mx-4'>Blog Details</Link>
             </li>
             <li className='nav-link'>
               <Link to="/contact" className='text-decoration-none text-black fs-4'>CONTACT</Link>
